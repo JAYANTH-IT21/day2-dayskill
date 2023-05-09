@@ -1,0 +1,3 @@
+day skill - day 2
+skill : devops
+venue : sf block
